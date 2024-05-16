@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google';
 import AppProviders from '@/providers/AppProviders';
 import { Metadata } from 'next';
 import siteMetadata from '../data/siteMetadata';
-import type { Viewport } from 'next'
+import { Viewport } from 'next/dist/lib/metadata/types/extra-types';
 import Navbar from '@/components/shared/Navbar';
 import Footer from '@/components/shared/Footer';
 
