@@ -1,5 +1,5 @@
-import OverviewTabs from '@/components/starter/OverviewTabs';
-import Features from '@/components/starter/Features';
+//import OverviewTabs from '@/components/starter/OverviewTabs';
+//import Features from '@/components/starter/Features';
 import Banner from '@/components/starter/Banner';
 
 export default function Home() {

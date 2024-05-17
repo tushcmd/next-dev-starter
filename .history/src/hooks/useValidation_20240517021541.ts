@@ -142,6 +142,3 @@ const useFieldValidation = () => {
 };
 
 export default useFieldValidation;
-
-
-*/}
